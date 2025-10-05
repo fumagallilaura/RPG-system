@@ -28,6 +28,16 @@ Leia nosso [Guia de Contribuição](CONTRIBUTING.md) para entender nosso fluxo d
 
 ## 📄 Documentação
 
+### Arquitetura
+-   [Decisões de Arquitetura (ADRs)](docs/adr/)
+-   [Arquitetura da API - Guia Visual](docs/arquitetura-api-visual.md) ⭐ **Novo!**
+-   [ADR 003: Arquitetura Modular](docs/adr/003-arquitetura-api-modular.md) - Explicação detalhada
+
+### Modelo de Dados
 -   [Modelo de Dados](docs/data-model.md)
 -   [Fluxo de Criação de Personagem](docs/fluxo-criacao-personagem.md)
--   [Decisões de Arquitetura (ADRs)](docs/adr/)
+
+### Para Iniciantes
+Se você é novo em arquitetura de software, comece por:
+1. [Arquitetura da API - Guia Visual](docs/arquitetura-api-visual.md) - Diagramas e analogias
+2. [ADR 003: Arquitetura Modular](docs/adr/003-arquitetura-api-modular.md) - Explicação completa
