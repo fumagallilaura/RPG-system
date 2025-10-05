@@ -14,7 +14,7 @@ Nossos microsserviços atuam como **executores de regras genéricos**, que leem 
 
 O [diagrama](https://mermaid.live/edit#pako:eNqtU01PAjEQ_SvNnIHwVYG9GYkJ8WKiXgwJGXaHtUrbTds1KvJnvPk7-GN2vwQWQQ_21nnz5r2ZaVcQ6oggADJjgbFBOVXMnxthHUm07P292dQrdksyWaIjywI2hURbm4opFLlbrEwe00IoEaI-d0bMU6cLVpSF6SjrmozVCmNSRbpQ1qEKBVaM3YSSM6ly9pX2_f1g5zR988lSiSwzsPnIYBbltmujWRX37NzdTcZMROz6ahuzvqaKmdKSDoLPvhXURXhdn8cvdfOYLUzMPHZ5SnN9dAR_UXGlpxMyMywrbtFHv6U5M-Rf0ywmg2Gt0909_pOLg6Dfq0vtnuwPy_6LelK5lXX9HI6qydZRoRx7xqU2pQloQGxEBIEzKTVAkpGYXSE3MQX3QL4PyD8KmqfsvWWcBNW91rKiGZ3GDxAscGn9LU0iP5fy436nkIrIXOhUOQhGeQUIVvACQa_bafFBp81HvMN7Q97tNeAVgj5vtc-6_cHZYMiHvN8erRvwlmu2W8MBX38B5SZJdQ) abaixo ilustra as principais entidades e como elas se conectam.
 
-![Diagrama de modelagem das entidades](entities-diagram.png)
+![Diagrama de modelagem das entidades](./images/entities-diagram.png)
 
 ```mermaid
 erDiagram
