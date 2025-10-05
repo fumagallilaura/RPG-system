@@ -13,3 +13,13 @@ Um ADR é um documento curto que captura uma decisão de arquitetura importante,
 3.  **Base de Conhecimento:** Cria um histórico valioso da evolução da arquitetura do nosso sistema.
 
 Cada arquivo nesta pasta representa uma única decisão.
+
+## Criando um Novo ADR
+
+Para registrar uma nova decisão de arquitetura, siga os passos abaixo:
+
+1.  Copie o arquivo `TEMPLATE.md` para um novo arquivo dentro desta pasta.
+2.  Renomeie o novo arquivo seguindo o padrão `XXX-titulo-curto-da-decisao.md`, onde `XXX` é o próximo número sequencial (ex: `003-adocao-de-websockets.md`).
+3.  Preencha todas as seções do template no novo arquivo. Comece com o status "Proposto".
+4.  Submeta o novo ADR como um Pull Request. A discussão e aprovação da decisão acontecerá no próprio PR.
+5.  Após a aprovação e o merge, o status do ADR é alterado para "Aceito".

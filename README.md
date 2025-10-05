@@ -29,4 +29,5 @@ Leia nosso [Guia de Contribuição](CONTRIBUTING.md) para entender nosso fluxo d
 ## 📄 Documentação
 
 -   [Modelo de Dados](docs/data-model.md)
--   [Decisões de Arquitetura (ADRs)](docs/architecture-decision-record/)
+-   [Fluxo de Criação de Personagem](docs/fluxo-criacao-personagem.md)
+-   [Decisões de Arquitetura (ADRs)](docs/adr/)
