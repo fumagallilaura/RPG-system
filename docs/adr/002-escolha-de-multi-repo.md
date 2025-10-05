@@ -28,7 +28,7 @@ Para resolver o desafio de compartilhar código comum (como tipos de dados e int
     * `rpg-system-api`: O microsserviço da API principal.
     * `rpg-system-stats-generator`: O microsserviço worker para gerar atributos.
     * `rpg-system-notification-service`: O microsserviço para enviar notificações.
-    * `rpg-system-infra`: (Opcional, mas recomendado) Um repositório para orquestrar o ambiente de desenvolvimento local com Docker Compose.
+    * `rpg-system-infra`: Um repositório para orquestrar o ambiente de desenvolvimento local com Docker Compose.
 
 ## Consequências
 
